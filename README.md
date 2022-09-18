@@ -8,3 +8,5 @@ search query from the user; it may contain ’AND’, ’OR’, or ’"’ (quot
 for the keyword and return the websites associated with it. The next step is to sort the websites according to
 their scores and update both the impressions and clicks. At the end of each session, the program saves the
 new data into the CSV files so it can access them later on.
+
+Technical Report: https://github.com/abdelmaksou/simple-search-engine/blob/main/Simple_search_engine_report___Ibrahim_Gohar.pdf
